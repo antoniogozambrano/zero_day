@@ -1,1 +1,1 @@
-mi primer readme esto es una prueba 
+mi primer readme esto es una prueba sobre el git pull
